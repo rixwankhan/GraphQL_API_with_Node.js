@@ -25,8 +25,7 @@ To create a GraphQL server with Node.js, we will be using the Apollo Server libr
 ```
 mkdir node-graphql-api
 cd node-graphql-api
-npm init -y
-npm install graphql express apollo-server-express
+npm install
 ```
 
 See Complete tutorial on medium.com https://medium.com/@akhanriz/building-a-graphql-api-with-node-js-a-tutorial-with-code-examples-a4c7f159b60
