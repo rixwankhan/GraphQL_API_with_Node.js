@@ -1,4 +1,4 @@
-# GraphQL_API_with_Node.js
+# GraphQL API with Node.js Tutorial
 Building a GraphQL API with Node.js
 
 Node.js has emerged as a popular choice for building web applications, and with the advent of GraphQL, it has become even more powerful. GraphQL is a query language for APIs that provides a more efficient, powerful and flexible approach to data retrieval. In this article, we will explore how to build a Node.js GraphQL API with code examples.
